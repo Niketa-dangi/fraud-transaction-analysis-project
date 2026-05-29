@@ -106,17 +106,13 @@ Designed interactive Power BI dashboards for:
 ### Executive Overview
 
 ![Executive Dashboard](dashboard_screenshots/executive_overview.png)
-
-![alt text](executive_overview.png.PNG)<img width="882" height="496" alt="customer_insights png" src="https://github.com/user-attachments/assets/158aeb0b-3c60-45d9-a148-84f51530e793" />
+<img width="879" height="493" alt="executive_overview png" src="https://github.com/user-attachments/assets/9aff932f-d64c-40cd-88c8-74bd586e7eef" />
 
 ![Fraud Risk Analysis](dashboard_screenshots/fraud_risk_analysis.png)
-
-![alt text](fraud_risk_analysis.png.PNG)
 <img width="884" height="499" alt="fraud_risk_analysis png" src="https://github.com/user-attachments/assets/c25d960e-842c-461f-a30a-866b02244379" />
 
 ![Customer Insights](dashboard_screenshots/customer_insights.png)
-
-![alt text](customer_insights.png.PNG)<img width="879" height="493" alt="executive_overview png" src="https://github.com/user-attachments/assets/9aff932f-d64c-40cd-88c8-74bd586e7eef" />
+img width="882" height="496" alt="customer_insights png" src="https://github.com/user-attachments/assets/158aeb0b-3c60-45d9-a148-84f51530e793" />
 
 ## Key Insights
 
